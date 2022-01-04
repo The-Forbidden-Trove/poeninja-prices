@@ -1,0 +1,1 @@
+[{"name":"Tainted Blessing","chaosEquivalent":300},{"name":"Simple Sextant","chaosEquivalent":2}]

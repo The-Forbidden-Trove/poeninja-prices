@@ -1,0 +1,1 @@
+[{"name":"Gilded Metamorph Scarab","chaosEquivalent":50},{"name":"Polished Bestiary Scarab","chaosEquivalent":20},{"name":"Polished Blight Scarab","chaosEquivalent":20},{"name":"Rusted Sulphite Scarab","chaosEquivalent":10}]
