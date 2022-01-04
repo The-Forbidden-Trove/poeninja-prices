@@ -1,1 +1,1 @@
-[]
+[{"name":"Abyssal Delirium Orb","chaosEquivalent":20},{"name":"Fragmented Delirium Orb","chaosEquivalent":15},{"name":"Diviner's Delirium Orb","chaosEquivalent":15},{"name":"Armoursmith's Delirium Orb","chaosEquivalent":15}]
