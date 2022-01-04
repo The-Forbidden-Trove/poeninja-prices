@@ -1,1 +1,1 @@
-[{"name":"Tainted Blessing","chaosEquivalent":300},{"name":"Simple Sextant","chaosEquivalent":2}]
+[{"name":"Tainted Blessing","chaosEquivalent":300},{"name":"Simple Sextant","chaosEquivalent":2},{"name":"Orb of Alchemy","chaosEquivalent":0.33},{"name":"Glassblower's Bauble","chaosEquivalent":0.33},{"name":"Chromatic Orb","chaosEquivalent":0.19}]
