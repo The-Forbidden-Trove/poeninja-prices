@@ -1,1 +1,1 @@
-[{"name":"Twice Enchanted","chaosEquivalent":50},{"name":"Lightning Falls","chaosEquivalent":11},{"name":"Possessed Foe","chaosEquivalent":11},{"name":"The Jeweller's Touch","chaosEquivalent":10}]
+[{"name":"The King's Path","chaosEquivalent":120.05},{"name":"Twice Enchanted","chaosEquivalent":50},{"name":"Lightning Falls","chaosEquivalent":11},{"name":"Possessed Foe","chaosEquivalent":11},{"name":"The Jeweller's Touch","chaosEquivalent":10}]

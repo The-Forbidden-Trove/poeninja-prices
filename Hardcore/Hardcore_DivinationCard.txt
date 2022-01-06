@@ -1,1 +1,1 @@
-[{"name":"The Celestial Justicar","chaosEquivalent":100},{"name":"The Wind","chaosEquivalent":20},{"name":"The Saint's Treasure","chaosEquivalent":18},{"name":"Emperor of Purity","chaosEquivalent":10}]
+[{"name":"House of Mirrors","chaosEquivalent":12005},{"name":"The Wind","chaosEquivalent":20},{"name":"The Saint's Treasure","chaosEquivalent":18}]
