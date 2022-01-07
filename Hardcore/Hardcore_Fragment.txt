@@ -1,1 +1,1 @@
-[{"name":"Fragment of Eradication","chaosEquivalent":100},{"name":"Fragment of the Hydra","chaosEquivalent":50},{"name":"Fragment of the Chimera","chaosEquivalent":50}]
+[{"name":"Fragment of Eradication","chaosEquivalent":100},{"name":"Fragment of the Chimera","chaosEquivalent":50}]
