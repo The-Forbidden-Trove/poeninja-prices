@@ -1,1 +1,1 @@
-[{"name":"Scorched Fossil","chaosEquivalent":4.33}]
+[{"name":"Scorched Fossil","chaosEquivalent":4.04}]
