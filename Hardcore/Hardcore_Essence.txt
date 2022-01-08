@@ -1,1 +1,1 @@
-[{"name":"Remnant of Corruption","chaosEquivalent":3.32}]
+[{"name":"Remnant of Corruption","chaosEquivalent":3.5}]
