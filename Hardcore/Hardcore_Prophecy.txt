@@ -1,1 +1,1 @@
-[{"name":"Twice Enchanted","chaosEquivalent":50},{"name":"Lightning Falls","chaosEquivalent":11},{"name":"Possessed Foe","chaosEquivalent":11}]
+[{"name":"A Gracious Master","chaosEquivalent":549.45},{"name":"Twice Enchanted","chaosEquivalent":50},{"name":"Lightning Falls","chaosEquivalent":11},{"name":"Possessed Foe","chaosEquivalent":11}]
