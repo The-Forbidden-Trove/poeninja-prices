@@ -1,1 +1,1 @@
-[{"name":"Prime Chaotic Resonator","chaosEquivalent":7.5}]
+[{"name":"Prime Chaotic Resonator","chaosEquivalent":30}]
