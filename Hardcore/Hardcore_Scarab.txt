@@ -1,1 +1,1 @@
-[{"name":"Polished Bestiary Scarab","chaosEquivalent":20},{"name":"Polished Blight Scarab","chaosEquivalent":20}]
+[{"name":"Polished Bestiary Scarab","chaosEquivalent":20}]
