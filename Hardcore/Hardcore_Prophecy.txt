@@ -1,1 +1,1 @@
-[{"name":"A Gracious Master","chaosEquivalent":371.45},{"name":"The Jeweller's Touch","chaosEquivalent":74.29},{"name":"Twice Enchanted","chaosEquivalent":14}]
+[{"name":"A Gracious Master","chaosEquivalent":370.45},{"name":"The Jeweller's Touch","chaosEquivalent":74.09},{"name":"Twice Enchanted","chaosEquivalent":14}]
