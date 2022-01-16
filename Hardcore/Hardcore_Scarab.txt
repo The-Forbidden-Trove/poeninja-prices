@@ -1,1 +1,1 @@
-[{"name":"Polished Bestiary Scarab","chaosEquivalent":20}]
+[]
