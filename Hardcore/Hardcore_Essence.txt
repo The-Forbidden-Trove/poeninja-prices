@@ -1,1 +1,1 @@
-[]
+[{"name":"Screaming Essence of Doubt","chaosEquivalent":2},{"name":"Screaming Essence of Fear","chaosEquivalent":2},{"name":"Weeping Essence of Woe","chaosEquivalent":2}]
