@@ -1,1 +1,1 @@
-[{"name":"Corroded Fossil","chaosEquivalent":10},{"name":"Fundamental Fossil","chaosEquivalent":10}]
+[{"name":"Fundamental Fossil","chaosEquivalent":10}]
