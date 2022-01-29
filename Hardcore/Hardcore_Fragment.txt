@@ -1,1 +1,1 @@
-[{"name":"Mortal Hope","chaosEquivalent":256.72},{"name":"Tribute to the Goddess","chaosEquivalent":5},{"name":"Dedication to the Goddess","chaosEquivalent":5},{"name":"Gift to the Goddess","chaosEquivalent":5}]
+[{"name":"Mortal Hope","chaosEquivalent":256.72}]
