@@ -1,1 +1,1 @@
-[{"name":"Winged Expedition Scarab","chaosEquivalent":3}]
+[{"name":"Rusted Metamorph Scarab","chaosEquivalent":10},{"name":"Winged Expedition Scarab","chaosEquivalent":3}]
