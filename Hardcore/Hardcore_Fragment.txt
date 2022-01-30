@@ -1,1 +1,1 @@
-[{"name":"Mortal Hope","chaosEquivalent":600},{"name":"Sacrifice at Dusk","chaosEquivalent":4.7},{"name":"Sacrifice at Dawn","chaosEquivalent":3.19},{"name":"Sacrifice at Noon","chaosEquivalent":3.19}]
+[{"name":"Mortal Hope","chaosEquivalent":600},{"name":"Sacrifice at Dusk","chaosEquivalent":3.19},{"name":"Sacrifice at Dawn","chaosEquivalent":3.19},{"name":"Sacrifice at Noon","chaosEquivalent":3.19}]
