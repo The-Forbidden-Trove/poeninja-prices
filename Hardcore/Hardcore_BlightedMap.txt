@@ -1,1 +1,1 @@
-[{"name":"Blighted Promenade Map 16","chaosEquivalent":49},{"name":"Blighted Promenade Map 13","chaosEquivalent":20},{"name":"Blighted Promenade Map 5","chaosEquivalent":4}]
+[{"name":"Blighted Promenade Map 16","chaosEquivalent":49},{"name":"Blighted Promenade Map 13","chaosEquivalent":20}]
