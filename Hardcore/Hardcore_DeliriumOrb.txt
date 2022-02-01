@@ -1,1 +1,1 @@
-[]
+[{"name":"Singular Delirium Orb","chaosEquivalent":1}]

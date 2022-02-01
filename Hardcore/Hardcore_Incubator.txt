@@ -1,1 +1,1 @@
-[]
+[{"name":"Feral Incubator","chaosEquivalent":25}]
