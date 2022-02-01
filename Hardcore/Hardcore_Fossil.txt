@@ -1,1 +1,1 @@
-[{"name":"Perfect Fossil","chaosEquivalent":20},{"name":"Frigid Fossil","chaosEquivalent":10}]
+[{"name":"Perfect Fossil","chaosEquivalent":20},{"name":"Frigid Fossil","chaosEquivalent":10},{"name":"Jagged Fossil","chaosEquivalent":5},{"name":"Bound Fossil","chaosEquivalent":5},{"name":"Metallic Fossil","chaosEquivalent":5}]
