@@ -1,1 +1,1 @@
-[{"name":"Ancient Reliquary Key","chaosEquivalent":66.01},{"name":"Sacrifice at Dusk","chaosEquivalent":4.37},{"name":"Sacrifice at Dawn","chaosEquivalent":3.36},{"name":"Sacrifice at Noon","chaosEquivalent":3.36},{"name":"Splinter of Chayula","chaosEquivalent":1.5}]
+[{"name":"Ancient Reliquary Key","chaosEquivalent":66.01},{"name":"Sacrifice at Dusk","chaosEquivalent":3.36},{"name":"Sacrifice at Dawn","chaosEquivalent":3.36},{"name":"Sacrifice at Noon","chaosEquivalent":3.36},{"name":"Splinter of Chayula","chaosEquivalent":1.5}]
