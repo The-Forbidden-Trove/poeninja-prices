@@ -1,1 +1,1 @@
-[{"name":"Singular Delirium Orb","chaosEquivalent":1}]
+[{"name":"Jeweller's Delirium Orb","chaosEquivalent":20},{"name":"Foreboding Delirium Orb","chaosEquivalent":20},{"name":"Armoursmith's Delirium Orb","chaosEquivalent":3.96},{"name":"Imperial Delirium Orb","chaosEquivalent":2},{"name":"Blacksmith's Delirium Orb","chaosEquivalent":2},{"name":"Singular Delirium Orb","chaosEquivalent":1}]
