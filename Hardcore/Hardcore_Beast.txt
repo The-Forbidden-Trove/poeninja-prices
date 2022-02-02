@@ -1,1 +1,1 @@
-[]
+[{"name":"Farric Frost Hellion Alpha","chaosEquivalent":69}]
