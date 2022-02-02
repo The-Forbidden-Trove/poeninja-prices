@@ -1,1 +1,1 @@
-[{"name":"Golden Oil","chaosEquivalent":484.4},{"name":"Tainted Oil","chaosEquivalent":96.88}]
+[{"name":"Golden Oil","chaosEquivalent":471.55},{"name":"Tainted Oil","chaosEquivalent":94.31}]
