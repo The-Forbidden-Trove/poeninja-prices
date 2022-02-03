@@ -1,1 +1,1 @@
-[{"name":"Craicic Lure","chaosEquivalent":950.3},{"name":"Polished Elder Scarab","chaosEquivalent":20},{"name":"Rusted Metamorph Scarab","chaosEquivalent":10},{"name":"Polished Harbinger Scarab","chaosEquivalent":5},{"name":"Rusted Expedition Scarab","chaosEquivalent":5}]
+[{"name":"Craicic Lure","chaosEquivalent":932},{"name":"Polished Elder Scarab","chaosEquivalent":20},{"name":"Rusted Metamorph Scarab","chaosEquivalent":10},{"name":"Polished Harbinger Scarab","chaosEquivalent":5},{"name":"Rusted Expedition Scarab","chaosEquivalent":5}]
