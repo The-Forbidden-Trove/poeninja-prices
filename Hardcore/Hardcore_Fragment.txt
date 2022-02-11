@@ -1,1 +1,1 @@
-[{"name":"Ancient Reliquary Key","chaosEquivalent":24150},{"name":"Xoph's Pure Breachstone","chaosEquivalent":150},{"name":"Tul's Pure Breachstone","chaosEquivalent":150},{"name":"Esh's Pure Breachstone","chaosEquivalent":150}]
+[{"name":"Ancient Reliquary Key","chaosEquivalent":24150}]
