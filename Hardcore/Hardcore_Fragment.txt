@@ -1,1 +1,1 @@
-[{"name":"Ancient Reliquary Key","chaosEquivalent":24150}]
+[]
