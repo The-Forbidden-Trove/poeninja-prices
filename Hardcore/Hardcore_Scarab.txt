@@ -1,1 +1,1 @@
-[{"name":"Craicic Lure","chaosEquivalent":806.2}]
+[{"name":"Craicic Lure","chaosEquivalent":776.7}]

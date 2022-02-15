@@ -1,1 +1,1 @@
-[{"name":"Farrul, First of the Plains","chaosEquivalent":403.1},{"name":"Craiceann, First of the Deep","chaosEquivalent":161.24},{"name":"Farric Frost Hellion Alpha","chaosEquivalent":69}]
+[{"name":"Farrul, First of the Plains","chaosEquivalent":388.35},{"name":"Craiceann, First of the Deep","chaosEquivalent":155.34},{"name":"Farric Frost Hellion Alpha","chaosEquivalent":69}]
