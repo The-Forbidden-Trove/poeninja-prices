@@ -1,1 +1,1 @@
-[{"name":"Farrul, First of the Plains","chaosEquivalent":375.65},{"name":"Craiceann, First of the Deep","chaosEquivalent":150.26}]
+[{"name":"Farrul, First of the Plains","chaosEquivalent":375.3},{"name":"Craiceann, First of the Deep","chaosEquivalent":150.12}]
