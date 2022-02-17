@@ -1,1 +1,1 @@
-[{"name":"Enchanted Incubator","chaosEquivalent":5},{"name":"Diviner's Incubator","chaosEquivalent":5},{"name":"Fragmented Incubator","chaosEquivalent":5}]
+[]
