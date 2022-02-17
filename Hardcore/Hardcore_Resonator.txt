@@ -1,1 +1,1 @@
-[{"name":"Prime Alchemical Resonator","chaosEquivalent":75.06},{"name":"Primitive Chaotic Resonator","chaosEquivalent":2}]
+[{"name":"Primitive Chaotic Resonator","chaosEquivalent":2}]
