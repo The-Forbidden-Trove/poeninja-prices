@@ -1,1 +1,1 @@
-[{"name":"Remnant of Corruption","chaosEquivalent":5.1},{"name":"Screaming Essence of Rage","chaosEquivalent":1},{"name":"Screaming Essence of Spite","chaosEquivalent":1},{"name":"Screaming Essence of Zeal","chaosEquivalent":1}]
+[{"name":"Remnant of Corruption","chaosEquivalent":5}]
