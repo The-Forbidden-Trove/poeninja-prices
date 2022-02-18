@@ -1,1 +1,1 @@
-[{"name":"A Dishonourable Death","chaosEquivalent":180},{"name":"Bountiful Traps","chaosEquivalent":75.06},{"name":"The Beginning and the End","chaosEquivalent":75.06},{"name":"Trapped in the Tower","chaosEquivalent":20}]
+[{"name":"Bountiful Traps","chaosEquivalent":75.06},{"name":"Trapped in the Tower","chaosEquivalent":20}]
