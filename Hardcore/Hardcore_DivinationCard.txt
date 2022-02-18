@@ -1,1 +1,1 @@
-[{"name":"Wealth and Power","chaosEquivalent":150.12},{"name":"Imperial Legacy","chaosEquivalent":10}]
+[{"name":"Imperial Legacy","chaosEquivalent":10}]
