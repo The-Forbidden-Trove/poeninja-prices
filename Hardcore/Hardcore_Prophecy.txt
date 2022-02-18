@@ -1,1 +1,1 @@
-[{"name":"Bountiful Traps","chaosEquivalent":75.06},{"name":"Trapped in the Tower","chaosEquivalent":20}]
+[{"name":"Bountiful Traps","chaosEquivalent":75.06}]
