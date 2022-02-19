@@ -1,1 +1,1 @@
-[{"name":"Imperial Legacy","chaosEquivalent":10}]
+[{"name":"The Offering","chaosEquivalent":100},{"name":"Imperial Legacy","chaosEquivalent":10}]
