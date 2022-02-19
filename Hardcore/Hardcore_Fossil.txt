@@ -1,1 +1,1 @@
-[{"name":"Pristine Fossil","chaosEquivalent":10}]
+[]
