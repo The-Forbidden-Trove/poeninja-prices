@@ -1,1 +1,1 @@
-[{"name":"Chayula's Pure Breachstone","chaosEquivalent":360},{"name":"Simulacrum","chaosEquivalent":200},{"name":"Chayula's Breachstone","chaosEquivalent":180},{"name":"Uul-Netol's Breachstone","chaosEquivalent":90}]
+[{"name":"Simulacrum","chaosEquivalent":200}]
