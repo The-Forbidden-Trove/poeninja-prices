@@ -1,1 +1,1 @@
-[{"name":"Simulacrum","chaosEquivalent":200}]
+[{"name":"Simulacrum","chaosEquivalent":200},{"name":"Divine Vessel","chaosEquivalent":10}]
