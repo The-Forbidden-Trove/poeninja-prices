@@ -1,1 +1,1 @@
-[{"name":"Blighted Plaza Map 13","chaosEquivalent":20},{"name":"Blighted Summit Map 15","chaosEquivalent":20},{"name":"Blighted Atoll Map 6","chaosEquivalent":10}]
+[{"name":"Blighted Plaza Map 13","chaosEquivalent":20},{"name":"Blighted Summit Map 15","chaosEquivalent":20}]
