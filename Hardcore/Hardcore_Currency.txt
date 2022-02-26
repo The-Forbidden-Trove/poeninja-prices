@@ -1,1 +1,1 @@
-[{"name":"Exalted Orb","chaosEquivalent":59.99},{"name":"Orb of Unmaking","chaosEquivalent":10},{"name":"Orb of Alchemy","chaosEquivalent":0.33},{"name":"Orb of Chance","chaosEquivalent":0.17},{"name":"Orb of Augmentation","chaosEquivalent":0.08}]
+[{"name":"Exalted Orb","chaosEquivalent":59.99},{"name":"Orb of Alchemy","chaosEquivalent":0.33},{"name":"Orb of Chance","chaosEquivalent":0.17},{"name":"Orb of Augmentation","chaosEquivalent":0.08}]
