@@ -1,1 +1,1 @@
-[]
+[{"name":"Kalguuran Delirium Orb","chaosEquivalent":50}]
