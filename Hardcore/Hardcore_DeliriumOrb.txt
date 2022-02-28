@@ -1,1 +1,1 @@
-[{"name":"Kalguuran Delirium Orb","chaosEquivalent":50}]
+[{"name":"Kalguuran Delirium Orb","chaosEquivalent":50},{"name":"Diviner's Delirium Orb","chaosEquivalent":20}]
