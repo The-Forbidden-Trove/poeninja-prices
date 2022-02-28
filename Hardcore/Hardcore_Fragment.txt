@@ -1,1 +1,1 @@
-[{"name":"Divine Vessel","chaosEquivalent":10}]
+[{"name":"Al-Hezmin's Crest","chaosEquivalent":200},{"name":"Divine Vessel","chaosEquivalent":10}]
