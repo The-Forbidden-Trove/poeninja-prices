@@ -1,1 +1,1 @@
-[{"name":"The Offering","chaosEquivalent":100},{"name":"The Avenger","chaosEquivalent":30},{"name":"The Patient","chaosEquivalent":30},{"name":"The Porcupine","chaosEquivalent":20},{"name":"The Prince of Darkness","chaosEquivalent":20}]
+[{"name":"The Offering","chaosEquivalent":100},{"name":"Immortal Resolve","chaosEquivalent":59.99},{"name":"The Nurse","chaosEquivalent":45},{"name":"The Avenger","chaosEquivalent":30},{"name":"The Patient","chaosEquivalent":30},{"name":"The Porcupine","chaosEquivalent":20},{"name":"The Prince of Darkness","chaosEquivalent":20}]
