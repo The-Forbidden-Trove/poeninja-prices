@@ -1,1 +1,0 @@
-[{"name":"Obscured Incubator","chaosEquivalent":10},{"name":"Mysterious Incubator","chaosEquivalent":9},{"name":"Primal Incubator","chaosEquivalent":8},{"name":"Diviner's Incubator","chaosEquivalent":8},{"name":"Abyssal Incubator","chaosEquivalent":8},{"name":"Fragmented Incubator","chaosEquivalent":8},{"name":"Fossilised Incubator","chaosEquivalent":5}]

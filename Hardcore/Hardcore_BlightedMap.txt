@@ -1,1 +1,0 @@
-[{"name":"Blighted Plaza Map 13","chaosEquivalent":20}]

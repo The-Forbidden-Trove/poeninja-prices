@@ -1,1 +1,0 @@
-[{"name":"Winged Expedition Scarab","chaosEquivalent":40},{"name":"Gilded Expedition Scarab","chaosEquivalent":20},{"name":"Polished Expedition Scarab","chaosEquivalent":10},{"name":"Rusted Expedition Scarab","chaosEquivalent":5}]
