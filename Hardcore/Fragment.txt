@@ -1,1 +1,1 @@
-[{"name":"Al-Hezmin's Crest","chaosEquivalent":200},{"name":"Xoph's Breachstone","chaosEquivalent":25},{"name":"Tul's Breachstone","chaosEquivalent":25},{"name":"Esh's Breachstone","chaosEquivalent":25},{"name":"Uul-Netol's Breachstone","chaosEquivalent":25}]
+[{"name":"Tul's Enriched Breachstone","chaosEquivalent":80},{"name":"Xoph's Breachstone","chaosEquivalent":25},{"name":"Tul's Breachstone","chaosEquivalent":25},{"name":"Esh's Breachstone","chaosEquivalent":25},{"name":"Uul-Netol's Breachstone","chaosEquivalent":25}]
