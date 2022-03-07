@@ -1,1 +1,1 @@
-[{"name":"Kalguuran Delirium Orb","chaosEquivalent":50},{"name":"Diviner's Delirium Orb","chaosEquivalent":20}]
+[{"name":"Kalguuran Delirium Orb","chaosEquivalent":50},{"name":"Fragmented Delirium Orb","chaosEquivalent":20},{"name":"Diviner's Delirium Orb","chaosEquivalent":20},{"name":"Armoursmith's Delirium Orb","chaosEquivalent":20},{"name":"Timeless Delirium Orb","chaosEquivalent":20}]
