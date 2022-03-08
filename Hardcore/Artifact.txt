@@ -1,1 +1,1 @@
-[]
+[{"name":"Astragali","chaosEquivalent":5}]
