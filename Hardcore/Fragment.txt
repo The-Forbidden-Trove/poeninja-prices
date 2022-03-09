@@ -1,1 +1,1 @@
-[{"name":"Tul's Enriched Breachstone","chaosEquivalent":80}]
+[{"name":"Tul's Enriched Breachstone","chaosEquivalent":80},{"name":"Offering to the Goddess","chaosEquivalent":0.5}]
