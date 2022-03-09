@@ -1,1 +1,1 @@
-[{"name":"Blighted Plaza Map 13","chaosEquivalent":20},{"name":"Blighted Relic Chambers Map 9","chaosEquivalent":3}]
+[{"name":"Blighted Plaza Map 13","chaosEquivalent":20}]
