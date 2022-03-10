@@ -1,1 +1,1 @@
-[{"name":"Essence of Horror","chaosEquivalent":100},{"name":"Remnant of Corruption","chaosEquivalent":9.6},{"name":"Essence of Insanity","chaosEquivalent":7}]
+[{"name":"Essence of Horror","chaosEquivalent":100},{"name":"Essence of Insanity","chaosEquivalent":7},{"name":"Remnant of Corruption","chaosEquivalent":7}]
