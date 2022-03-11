@@ -1,1 +1,1 @@
-[{"name":"Exotic Coinage","chaosEquivalent":4},{"name":"Burial Medallion","chaosEquivalent":4},{"name":"Scrap Metal","chaosEquivalent":2},{"name":"Astragali","chaosEquivalent":2}]
+[{"name":"Burial Medallion","chaosEquivalent":4.04},{"name":"Exotic Coinage","chaosEquivalent":4},{"name":"Scrap Metal","chaosEquivalent":2},{"name":"Astragali","chaosEquivalent":2}]
