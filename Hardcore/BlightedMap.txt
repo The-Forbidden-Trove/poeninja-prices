@@ -1,1 +1,1 @@
-[{"name":"Blighted Strand Map 14","chaosEquivalent":20}]
+[{"name":"Blighted Desert Map 1","chaosEquivalent":75.02},{"name":"Blighted Strand Map 14","chaosEquivalent":20}]
