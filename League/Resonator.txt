@@ -1,1 +1,1 @@
-[{"name":"Prime Chaotic Resonator","chaosEquivalent":43.07},{"name":"Powerful Chaotic Resonator","chaosEquivalent":3},{"name":"Primitive Chaotic Resonator","chaosEquivalent":2},{"name":"Potent Chaotic Resonator","chaosEquivalent":2}]
+[{"name":"Prime Chaotic Resonator","chaosEquivalent":45},{"name":"Potent Chaotic Resonator","chaosEquivalent":3.09},{"name":"Powerful Chaotic Resonator","chaosEquivalent":3},{"name":"Primitive Chaotic Resonator","chaosEquivalent":2}]
