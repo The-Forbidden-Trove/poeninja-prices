@@ -1,1 +1,1 @@
-[{"name":"Golden Oil","chaosEquivalent":92.51},{"name":"Crimson Oil","chaosEquivalent":4},{"name":"Violet Oil","chaosEquivalent":3}]
+[{"name":"Golden Oil","chaosEquivalent":91.55},{"name":"Crimson Oil","chaosEquivalent":4},{"name":"Violet Oil","chaosEquivalent":3}]
