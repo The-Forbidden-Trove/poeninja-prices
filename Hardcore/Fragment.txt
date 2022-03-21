@@ -1,1 +1,1 @@
-[{"name":"Drox's Crest","chaosEquivalent":25},{"name":"Sacrifice at Dusk","chaosEquivalent":10},{"name":"Sacrifice at Dawn","chaosEquivalent":10},{"name":"Sacrifice at Noon","chaosEquivalent":10}]
+[{"name":"Drox's Crest","chaosEquivalent":25}]
