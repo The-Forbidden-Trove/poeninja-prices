@@ -1,1 +1,1 @@
-[{"name":"Cartographer's Delirium Orb","chaosEquivalent":93.38},{"name":"Abyssal Delirium Orb","chaosEquivalent":93.38},{"name":"Kalguuran Delirium Orb","chaosEquivalent":93.38},{"name":"Fragmented Delirium Orb","chaosEquivalent":20},{"name":"Armoursmith's Delirium Orb","chaosEquivalent":20},{"name":"Timeless Delirium Orb","chaosEquivalent":20}]
+[{"name":"Cartographer's Delirium Orb","chaosEquivalent":93.38},{"name":"Abyssal Delirium Orb","chaosEquivalent":93.38},{"name":"Kalguuran Delirium Orb","chaosEquivalent":93.38}]
