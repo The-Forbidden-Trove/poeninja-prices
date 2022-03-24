@@ -1,1 +1,1 @@
-[{"name":"Deafening Essence of Scorn","chaosEquivalent":92.72},{"name":"Remnant of Corruption","chaosEquivalent":5}]
+[{"name":"Deafening Essence of Scorn","chaosEquivalent":105.28},{"name":"Remnant of Corruption","chaosEquivalent":5}]
