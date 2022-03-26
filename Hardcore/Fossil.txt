@@ -1,1 +1,1 @@
-[{"name":"Aberrant Fossil","chaosEquivalent":20},{"name":"Deft Fossil","chaosEquivalent":18.34},{"name":"Dense Fossil","chaosEquivalent":9},{"name":"Bound Fossil","chaosEquivalent":8},{"name":"Fundamental Fossil","chaosEquivalent":7}]
+[{"name":"Aberrant Fossil","chaosEquivalent":20},{"name":"Deft Fossil","chaosEquivalent":18.17},{"name":"Dense Fossil","chaosEquivalent":9},{"name":"Bound Fossil","chaosEquivalent":8},{"name":"Fundamental Fossil","chaosEquivalent":7}]
