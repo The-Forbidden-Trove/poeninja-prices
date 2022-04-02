@@ -1,1 +1,1 @@
-[{"name":"Offering to the Goddess","chaosEquivalent":100}]
+[]
