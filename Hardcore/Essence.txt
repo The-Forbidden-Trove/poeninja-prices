@@ -1,1 +1,1 @@
-[{"id":375,"name":"Deafening Essence of Fear","chaosEquivalent":92.82,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png"}]
+[{"id":375,"name":"Deafening Essence of Fear","chaosEquivalent":90.01,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png"}]
