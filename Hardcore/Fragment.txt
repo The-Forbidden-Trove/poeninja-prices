@@ -1,1 +1,1 @@
-[{"name":"Timeless Karui Emblem","chaosEquivalent":100},{"name":"Sacrifice at Midnight","chaosEquivalent":20},{"name":"Sacrifice at Dusk","chaosEquivalent":3.7},{"name":"Sacrifice at Dawn","chaosEquivalent":3.7},{"name":"Sacrifice at Noon","chaosEquivalent":2.3}]
+[{"name":"Sacrifice at Midnight","chaosEquivalent":20},{"name":"Sacrifice at Dusk","chaosEquivalent":3.7},{"name":"Sacrifice at Dawn","chaosEquivalent":3.7},{"name":"Sacrifice at Noon","chaosEquivalent":2.3}]
