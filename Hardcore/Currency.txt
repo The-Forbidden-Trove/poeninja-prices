@@ -1,1 +1,1 @@
-[{"name":"Mirror of Kalandra","chaosEquivalent":45004.5},{"name":"Exalted Orb","chaosEquivalent":90.01},{"name":"Infused Engineer's Orb","chaosEquivalent":10},{"name":"Orb of Augmentation","chaosEquivalent":0.33}]
+[{"name":"Mirror of Kalandra","chaosEquivalent":28615.16},{"name":"Exalted Orb","chaosEquivalent":90.01},{"name":"Infused Engineer's Orb","chaosEquivalent":10},{"name":"Orb of Augmentation","chaosEquivalent":0.33},{"name":"Portal Scroll","chaosEquivalent":0.02}]
