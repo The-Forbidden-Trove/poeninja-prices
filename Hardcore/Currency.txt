@@ -1,0 +1,1 @@
+[{"name":"Mirror of Kalandra","chaosEquivalent":12871.3},{"name":"Exalted Orb","chaosEquivalent":90.01},{"name":"Orb of Augmentation","chaosEquivalent":0.33},{"name":"Portal Scroll","chaosEquivalent":0.02}]
