@@ -1,1 +1,1 @@
-[{"name":"Sacrifice at Dusk","chaosEquivalent":50},{"name":"Sacrifice at Dawn","chaosEquivalent":50}]
+[{"id":1,"name":"Sacrifice at Dusk","chaosEquivalent":50,"icon":"https://web.poecdn.com/image/Art/2DItems/Currency/CurrencyRerollRare.png?scale=1&w=1&h=1"},{"id":2,"name":"Sacrifice at Dawn","chaosEquivalent":50,"icon":"https://web.poecdn.com/image/Art/2DItems/Currency/CurrencyAddModToRare.png?scale=1&w=1&h=1"}]
