@@ -1,1 +1,1 @@
-[{"id":42604,"name":"Winged Sulphite Scarab","chaosEquivalent":271.59,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN1bHBoaXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/91ecb97f73/Tier4ScarabSulphite.png"}]
+[{"id":42604,"name":"Winged Sulphite Scarab","chaosEquivalent":271.83,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN1bHBoaXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/91ecb97f73/Tier4ScarabSulphite.png"}]
