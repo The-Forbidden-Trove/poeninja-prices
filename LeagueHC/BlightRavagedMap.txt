@@ -1,1 +1,1 @@
-[{"id":93420,"name":"Blight-ravaged Crimson Temple Map","chaosEquivalent":20,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TYW5jdHVhcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjEzLCJtdCI6MTYsIm11YiI6dHJ1ZX1d/d828730b97/Sanctuary.png"}]
+[]
