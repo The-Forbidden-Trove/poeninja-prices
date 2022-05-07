@@ -1,1 +1,1 @@
-[{"id":97,"name":"Chayula's Pure Breachstone","chaosEquivalent":375,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzUHVyZUJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/990514c659/ChayulasPureBreachstone.png"},{"id":70,"name":"Chayula's Breachstone","chaosEquivalent":300,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NoYW9zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/04b5c032f4/BreachFragmentsChaos.png"}]
+[]

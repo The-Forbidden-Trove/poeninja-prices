@@ -1,1 +1,1 @@
-[{"id":849,"name":"Muttering Essence of Fear","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d75c64c4d4/Fear2.png"}]
+[]
