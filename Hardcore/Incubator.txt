@@ -1,1 +1,1 @@
-[]
+[{"id":21696,"name":"Fragmented Incubator","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRnJhZ21lbnRzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/998cdb111c/IncubationFragments.png"},{"id":21692,"name":"Otherworldly Incubator","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/daa8321bff/IncubationMaps.png"}]
