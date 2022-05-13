@@ -1,1 +1,1 @@
-[{"leagueName":"Standard","fileName":"Standard"},{"leagueName":"Hardcore","fileName":"Hardcore"}]
+[{"leagueName":"Standard","fileName":"Standard"},{"leagueName":"Hardcore","fileName":"Hardcore"},{"leagueName":"Sentinel","fileName":"League"},{"leagueName":"Hardcore Sentinel","fileName":"LeagueHC"}]
