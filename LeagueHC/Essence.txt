@@ -1,1 +1,1 @@
-[]
+[{"id":1874,"name":"Whispering Essence of Greed","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7a626ae68b/Greed1.png"}]
