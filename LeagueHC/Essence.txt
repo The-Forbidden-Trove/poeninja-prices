@@ -1,1 +1,1 @@
-[{"id":848,"name":"Muttering Essence of Contempt","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c0ae423980/Contempt2.png"},{"id":852,"name":"Muttering Essence of Sorrow","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3cyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/db9792191e/Sorrow2.png"}]
+[]
