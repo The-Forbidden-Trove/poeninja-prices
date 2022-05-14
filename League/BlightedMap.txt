@@ -1,1 +1,1 @@
-[]
+[{"id":95811,"name":"Blighted Tower Map 2","chaosEquivalent":7,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Ub3dlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoyLCJtYiI6dHJ1ZX1d/0a96311230/Tower.png"}]
