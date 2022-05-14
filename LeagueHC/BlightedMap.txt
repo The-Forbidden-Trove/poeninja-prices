@@ -1,1 +1,1 @@
-[]
+[{"id":95815,"name":"Blighted Moon Temple Map 3","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MdW5hcmlzVGVtcGxlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjMsIm1iIjp0cnVlfV0/0191589191/LunarisTemple.png"}]
