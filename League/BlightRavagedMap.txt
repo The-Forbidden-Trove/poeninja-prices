@@ -1,1 +1,1 @@
-[]
+[{"id":95965,"name":"Blight-ravaged Cells Map","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZWxscyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/6e745a7726/Cells.png"}]
