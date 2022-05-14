@@ -1,1 +1,1 @@
-[]
+[{"id":96028,"name":"Blight-ravaged Fields Map","chaosEquivalent":30,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9GaWVsZHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/53c2fc2b11/Fields.png"}]
