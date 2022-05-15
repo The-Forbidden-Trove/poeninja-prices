@@ -1,1 +1,1 @@
-[{"id":21687,"name":"Abyssal Incubator","chaosEquivalent":2.1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/378681eca6/IncubationAbyss.png"}]
+[{"id":21687,"name":"Abyssal Incubator","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/378681eca6/IncubationAbyss.png"}]
