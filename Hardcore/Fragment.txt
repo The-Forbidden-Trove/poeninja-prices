@@ -1,1 +1,1 @@
-[]
+[{"id":130,"name":"Tribute to the Goddess","chaosEquivalent":50,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1cfaffbce/LabyrinthHarvest.png"}]
