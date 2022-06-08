@@ -1,1 +1,1 @@
-[]
+[{"id":7662,"name":"Prime Chaotic Resonator","chaosEquivalent":104,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/584267701b/Reroll2x2C.png"}]
