@@ -1,1 +1,1 @@
-[]
+[{"id":95851,"name":"Blighted Acid Caverns Map 2","chaosEquivalent":9,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyVmVudHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MiwibWIiOnRydWV9XQ/577d3ad121/SulphurVents.png"}]
