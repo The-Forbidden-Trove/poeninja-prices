@@ -1,1 +1,1 @@
-[]
+[{"id":495,"name":"Essence of Hysteria","chaosEquivalent":19,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9UZXJyb3IxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/80faa3ee53/Terror1.png"}]
