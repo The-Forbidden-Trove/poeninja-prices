@@ -1,1 +1,1 @@
-[]
+[{"id":40909,"name":"Singular Delirium Orb","chaosEquivalent":29,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJVbmlxdWVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/69797d10bb/DeliriumOrbUniques.png"},{"id":40913,"name":"Armoursmith's Delirium Orb","chaosEquivalent":15,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJBcm1vdXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3f5099006e/DeliriumOrbArmour.png"}]
