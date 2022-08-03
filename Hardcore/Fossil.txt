@@ -1,1 +1,1 @@
-[{"id":70510,"name":"Fundamental Fossil","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRW5jcnVzdGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4f7e7cc55d/EncrustedFossil.png"}]
+[]
