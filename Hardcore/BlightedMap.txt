@@ -1,1 +1,1 @@
-[]
+[{"id":44140,"name":"Blighted Primordial Pool Map 14","chaosEquivalent":30,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcmltb3JkaWFsUG9vbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6OSwibXQiOjE0LCJtYiI6dHJ1ZX1d/d9f9b59ef2/PrimordialPool.png"}]
