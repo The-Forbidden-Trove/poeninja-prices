@@ -1,1 +1,1 @@
-[]
+[{"id":31,"name":"Sacrifice at Noon","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85d03a6bbf/Vaal03.png"}]
