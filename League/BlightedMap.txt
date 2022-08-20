@@ -1,1 +1,1 @@
-[{"id":98284,"name":"Blighted Strand Map 1","chaosEquivalent":12,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MSwibWIiOnRydWV9XQ/94087a06fc/Strand.png"}]
+[{"id":98284,"name":"Blighted Strand Map 1","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MSwibWIiOnRydWV9XQ/94087a06fc/Strand.png"}]
