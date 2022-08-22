@@ -1,1 +1,1 @@
-[{"id":98302,"name":"Blight-ravaged Arid Lake Map","chaosEquivalent":70.93,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmlkTGFrZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNiwibXViIjp0cnVlfV0/b47d8e3c4a/AridLake.png"}]
+[{"id":98302,"name":"Blight-ravaged Arid Lake Map","chaosEquivalent":70.95,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmlkTGFrZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNiwibXViIjp0cnVlfV0/b47d8e3c4a/AridLake.png"}]
