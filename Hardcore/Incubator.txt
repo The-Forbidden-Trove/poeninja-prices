@@ -1,1 +1,1 @@
-[]
+[{"id":21683,"name":"Skittering Incubator","chaosEquivalent":50,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uU2NhcmFicyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/edaa4a92ba/IncubationScarabs.png"}]
