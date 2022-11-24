@@ -1,1 +1,1 @@
-[{"id":44141,"name":"Blighted Promenade Map 15","chaosEquivalent":28,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcm9tZW5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjksIm10IjoxNSwibWIiOnRydWV9XQ/96e4b92e8d/Promenade.png"},{"id":44140,"name":"Blighted Primordial Pool Map 14","chaosEquivalent":26,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcmltb3JkaWFsUG9vbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6OSwibXQiOjE0LCJtYiI6dHJ1ZX1d/d9f9b59ef2/PrimordialPool.png"}]
+[]
