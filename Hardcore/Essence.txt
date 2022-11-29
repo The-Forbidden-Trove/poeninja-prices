@@ -1,1 +1,1 @@
-[{"id":1100,"name":"Screaming Essence of Suffering","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmc1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/061b600839/Suffering5.png"},{"id":1823,"name":"Wailing Essence of Loathing","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/34e7918149/Loathing4.png"}]
+[]
