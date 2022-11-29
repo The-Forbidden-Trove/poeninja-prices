@@ -1,1 +1,1 @@
-[]
+[{"id":40043,"name":"Rusted Metamorph Scarab","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNZXRhbW9ycGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bff955eb6/LesserScarabMetamorph.png"}]
