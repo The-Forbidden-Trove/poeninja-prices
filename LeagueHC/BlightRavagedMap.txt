@@ -1,1 +1,1 @@
-[]
+[{"id":100834,"name":"Blight-ravaged Ghetto Map","chaosEquivalent":80,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9HaGV0dG8iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE2LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/fe021d91bf/Ghetto.png"},{"id":100887,"name":"Blight-ravaged Canyon Map","chaosEquivalent":80,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYW55b24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE2LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/46f049dbf7/Canyon.png"}]
