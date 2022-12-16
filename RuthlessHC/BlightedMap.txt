@@ -1,1 +1,1 @@
-[]
+[{"id":100599,"name":"Blighted Lava Lake Map 1","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE2LCJtdCI6MSwibWIiOnRydWV9XQ/dacba96436/Corpse.png"}]
