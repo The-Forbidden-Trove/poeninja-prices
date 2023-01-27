@@ -1,1 +1,1 @@
-[]
+[{"id":100725,"name":"Blighted Mesa Map 11","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNiwibXQiOjExLCJtYiI6dHJ1ZX1d/7828c987fe/Mesa.png"}]
