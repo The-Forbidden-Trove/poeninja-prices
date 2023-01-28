@@ -1,1 +1,1 @@
-[{"id":102390,"name":"Delirium Orb","chaosEquivalent":1.77,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJHZW5lcmljIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9cfcfe4f4c/DeliriumOrbGeneric.png"}]
+[{"id":102390,"name":"Delirium Orb","chaosEquivalent":1.8,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJHZW5lcmljIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9cfcfe4f4c/DeliriumOrbGeneric.png"}]
