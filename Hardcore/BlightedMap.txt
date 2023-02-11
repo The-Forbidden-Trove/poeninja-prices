@@ -1,1 +1,1 @@
-[{"id":100676,"name":"Blighted Crimson Township Map 8","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Dcmltc29uVG93bnNoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE2LCJtdCI6OCwibWIiOnRydWV9XQ/b9ef730c77/CrimsonTownship.png"}]
+[]
