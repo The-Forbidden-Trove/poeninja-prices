@@ -1,1 +1,1 @@
-[{"id":100686,"name":"Blighted Haunted Mansion Map 6","chaosEquivalent":7,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaGFtYmVycyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTYsIm10Ijo2LCJtYiI6dHJ1ZX1d/f5626e32dc/Chambers.png"}]
+[{"id":100686,"name":"Blighted Haunted Mansion Map 6","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaGFtYmVycyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTYsIm10Ijo2LCJtYiI6dHJ1ZX1d/f5626e32dc/Chambers.png"}]
