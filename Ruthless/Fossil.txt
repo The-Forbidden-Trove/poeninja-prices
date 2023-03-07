@@ -1,1 +1,1 @@
-[{"id":7667,"name":"Bloodstained Fossil","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQmxvb2RzdGFpbmVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fe0b3edea8/BloodstainedFossil.png"}]
+[]
