@@ -1,1 +1,1 @@
-[{"id":101162,"name":"Blight-ravaged Arsenal Map","chaosEquivalent":50,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcnNlbmFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNiwibXQiOjE1LCJtdWIiOnRydWV9XQ/9892598033/Arsenal.png"}]
+[]
