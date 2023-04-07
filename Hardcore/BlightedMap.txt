@@ -1,1 +1,1 @@
-[{"id":40261,"name":"Blighted Desert Map 2","chaosEquivalent":15,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjcsIm10IjoyLCJtYiI6dHJ1ZX1d/b8ac376d72/Desert.png"}]
+[]
