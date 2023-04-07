@@ -1,1 +1,1 @@
-[{"id":1862,"name":"Weeping Essence of Woe","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2UzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4bce548a80/Woe3.png"}]
+[]
