@@ -1,1 +1,1 @@
-[]
+[{"id":40903,"name":"Imperial Delirium Orb","chaosEquivalent":4,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJMYWJ5cmludGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/50340fc6c8/DeliriumOrbLabyrinth.png"}]
