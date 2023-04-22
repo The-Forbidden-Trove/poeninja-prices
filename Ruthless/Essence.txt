@@ -1,1 +1,1 @@
-[{"id":1820,"name":"Wailing Essence of Fear","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9f6bef7be1/Fear4.png"}]
+[]
