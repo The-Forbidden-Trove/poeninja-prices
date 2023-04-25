@@ -1,1 +1,1 @@
-[]
+[{"id":22530,"name":"Crimson Oil","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Dcmltc29uT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54fb620c7e/CrimsonOil.png"}]
