@@ -1,1 +1,1 @@
-[{"id":103555,"name":"Blighted Colonnade Map 1","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xvbm5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE3LCJtdCI6MSwibWIiOnRydWV9XQ/6865db54d5/Colonnade.png"}]
+[]
