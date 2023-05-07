@@ -1,1 +1,1 @@
-[]
+[{"id":1087,"name":"Screaming Essence of Contempt","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/473f05aaee/Contempt5.png"}]
