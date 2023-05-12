@@ -1,1 +1,1 @@
-[{"id":103629,"name":"Blighted Precinct Map 2","chaosEquivalent":3,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QcmVjaW5jdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTcsIm10IjoyLCJtYiI6dHJ1ZX1d/e3f34368d3/Precinct.png"}]
+[{"id":103629,"name":"Blighted Precinct Map 2","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QcmVjaW5jdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTcsIm10IjoyLCJtYiI6dHJ1ZX1d/e3f34368d3/Precinct.png"}]
