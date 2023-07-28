@@ -1,1 +1,1 @@
-[]
+[{"id":103781,"name":"Blight-ravaged Coves Map","chaosEquivalent":20,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3ZlcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTcsIm10IjoxNiwibXViIjp0cnVlfV0/2e56bdc084/Coves.png"}]
