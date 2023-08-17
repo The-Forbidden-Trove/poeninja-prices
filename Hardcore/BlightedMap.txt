@@ -1,1 +1,1 @@
-[]
+[{"id":24584,"name":"Blighted Port Map 6","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9RdWF5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjo2LCJtdCI6NiwibWIiOnRydWV9XQ/d2427c0fe3/Quay.png"}]
