@@ -1,1 +1,1 @@
-[{"id":103692,"name":"Blighted Forbidden Woods Map 7","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Gb3JiaWRkZW5Xb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTcsIm10Ijo3LCJtYiI6dHJ1ZX1d/ae89df1e44/ForbiddenWoods.png"}]
+[]
