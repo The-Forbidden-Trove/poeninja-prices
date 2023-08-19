@@ -1,1 +1,1 @@
-[]
+[{"id":106418,"name":"Blighted Bone Crypt Map 1","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTgsIm10IjoxLCJtYiI6dHJ1ZX1d/5f2af45187/Catacomb.png"}]
