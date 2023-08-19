@@ -1,1 +1,1 @@
-[]
+[{"id":21682,"name":"Cartographer's Incubator","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/daa8321bff/IncubationMaps.png"},{"id":21689,"name":"Mysterious Incubator","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VuZXJpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/63aabd064b/IncubationGeneric.png"}]
