@@ -1,1 +1,1 @@
-[]
+[{"id":106707,"name":"Blight-ravaged Wharf Map","chaosEquivalent":34,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XaGFyZiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTgsIm10IjoxNCwibXViIjp0cnVlfV0/e891d5fd45/Wharf.png"}]
