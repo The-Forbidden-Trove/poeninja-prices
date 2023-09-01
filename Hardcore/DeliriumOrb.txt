@@ -1,1 +1,1 @@
-[{"id":40905,"name":"Cartographer's Delirium Orb","chaosEquivalent":11,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ad4a59a2fc/DeliriumOrbMaps.png"}]
+[]
