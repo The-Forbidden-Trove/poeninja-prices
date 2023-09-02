@@ -1,1 +1,1 @@
-[]
+[{"id":103667,"name":"Blighted Toxic Sewer Map 6","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXdlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTcsIm10Ijo2LCJtYiI6dHJ1ZX1d/e8ebcb9816/Sewer.png"}]
