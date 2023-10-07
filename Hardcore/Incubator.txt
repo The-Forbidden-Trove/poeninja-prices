@@ -1,1 +1,1 @@
-[{"id":21686,"name":"Fossilised Incubator","chaosEquivalent":3,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRm9zc2lscyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/30fb338730/IncubationFossils.png"}]
+[]
