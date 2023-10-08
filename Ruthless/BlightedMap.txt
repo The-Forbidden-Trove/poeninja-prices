@@ -1,1 +1,1 @@
-[{"id":106475,"name":"Blighted Cage Map 4","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxOCwibXQiOjQsIm1iIjp0cnVlfV0/96cbdfc2e5/Cage.png"}]
+[]
