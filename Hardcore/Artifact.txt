@@ -1,1 +1,1 @@
-[{"id":69149,"name":"Burial Medallion","chaosEquivalent":4,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9EYW5uaWdSZXJvbGxDdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/62d38b9f1d/DannigRerollCurrency.png"}]
+[]
