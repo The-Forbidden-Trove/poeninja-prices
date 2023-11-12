@@ -1,1 +1,1 @@
-[{"id":1046,"name":"Remnant of Corruption","chaosEquivalent":17,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlQ29ycnVwdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0e84041aa5/EssenceCorrupt.png"}]
+[{"id":1046,"name":"Remnant of Corruption","chaosEquivalent":80,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlQ29ycnVwdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0e84041aa5/EssenceCorrupt.png"}]
