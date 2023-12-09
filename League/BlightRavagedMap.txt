@@ -1,1 +1,1 @@
-[]
+[{"id":109186,"name":"Blight-ravaged Bramble Valley Map","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CcmFtYmxlZmFsbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxNSwibXViIjp0cnVlfV0/c5f6887542/Bramblefall.png"}]
