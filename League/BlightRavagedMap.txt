@@ -1,1 +1,1 @@
-[{"id":109186,"name":"Blight-ravaged Bramble Valley Map","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CcmFtYmxlZmFsbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxNSwibXViIjp0cnVlfV0/c5f6887542/Bramblefall.png"}]
+[{"id":109102,"name":"Blight-ravaged Vault Map","chaosEquivalent":65.55,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYXVsdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxNSwibXViIjp0cnVlfV0/0f3697c67b/Vault.png"}]
