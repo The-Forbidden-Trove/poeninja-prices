@@ -1,1 +1,1 @@
-[{"id":109102,"name":"Blight-ravaged Vault Map","chaosEquivalent":65.55,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYXVsdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxNSwibXViIjp0cnVlfV0/0f3697c67b/Vault.png"}]
+[{"id":109102,"name":"Blight-ravaged Vault Map","chaosEquivalent":68.53,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYXVsdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxNSwibXViIjp0cnVlfV0/0f3697c67b/Vault.png"}]
