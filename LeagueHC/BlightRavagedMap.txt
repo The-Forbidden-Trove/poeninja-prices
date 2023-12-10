@@ -1,1 +1,1 @@
-[{"id":109366,"name":"Blight-ravaged Reef Map","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SZWVmIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxOSwibXQiOjE0LCJtdWIiOnRydWV9XQ/f70bd5bdb4/Reef.png"}]
+[]
