@@ -1,1 +1,1 @@
-[]
+[{"id":109809,"name":"Blight-ravaged Conservatory Map","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXRocyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxNCwibXViIjp0cnVlfV0/c02f122c09/Baths.png"}]
