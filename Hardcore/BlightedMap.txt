@@ -1,1 +1,1 @@
-[{"id":24124,"name":"Blighted Graveyard Map 8","chaosEquivalent":20,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9HcmF2ZXlhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjUsIm10Ijo4LCJtYiI6dHJ1ZX1d/6a48012813/Graveyard.png"}]
+[]
