@@ -1,1 +1,1 @@
-[{"id":109132,"name":"Blighted Acid Caverns Map 4","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyVmVudHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE5LCJtdCI6NCwibWIiOnRydWV9XQ/5b2b6813f9/SulphurVents.png"},{"id":109134,"name":"Blighted Bone Crypt Map 1","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTksIm10IjoxLCJtYiI6dHJ1ZX1d/12b6dfa946/Catacomb.png"}]
+[]
