@@ -1,1 +1,1 @@
-[{"id":109655,"name":"Blight-ravaged Mesa Map","chaosEquivalent":449.28,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxOSwibXQiOjE2LCJtdWIiOnRydWV9XQ/da08034813/Mesa.png"}]
+[{"id":109655,"name":"Blight-ravaged Mesa Map","chaosEquivalent":433.6,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxOSwibXQiOjE2LCJtdWIiOnRydWV9XQ/da08034813/Mesa.png"}]
