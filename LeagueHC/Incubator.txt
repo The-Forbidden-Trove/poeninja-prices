@@ -1,1 +1,1 @@
-[]
+[{"id":21675,"name":"Gemcutter's Incubator","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png"}]
