@@ -1,1 +1,1 @@
-[]
+[{"id":113983,"name":"Blighted Crimson Township Map 1","chaosEquivalent":7.3,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Dcmltc29uVG93bnNoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIwLCJtdCI6MSwibWIiOnRydWV9XQ/67a1efe6f2/CrimsonTownship.png"},{"id":114003,"name":"Blighted Desert Spring Map 1","chaosEquivalent":7,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PYXNpcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjAsIm10IjoxLCJtYiI6dHJ1ZX1d/2334e29bba/Oasis.png"}]
