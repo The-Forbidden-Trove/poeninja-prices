@@ -1,1 +1,1 @@
-[]
+[{"id":114180,"name":"Blight-ravaged Forbidden Woods Map","chaosEquivalent":45,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Gb3JiaWRkZW5Xb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjAsIm10IjoxNCwibXViIjp0cnVlfV0/d0c639c198/ForbiddenWoods.png"}]
