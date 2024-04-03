@@ -1,1 +1,1 @@
-[{"id":114013,"name":"Blighted Vaal Pyramid Map 4","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYWFsUHlyYW1pZCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjAsIm10Ijo0LCJtYiI6dHJ1ZX1d/4aa9c4445a/VaalPyramid.png"}]
+[]
