@@ -1,1 +1,1 @@
-[{"id":44264,"name":"Blighted Lighthouse Map 7","chaosEquivalent":4,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjksIm10Ijo3LCJtYiI6dHJ1ZX1d/fe57c4e0be/Beacon.png"}]
+[]
