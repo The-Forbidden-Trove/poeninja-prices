@@ -1,1 +1,1 @@
-[]
+[{"id":7640,"name":"Bound Fossil","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVzb25hdGluZ0Zvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/836925ced6/ResonatingFossil.png"},{"id":7655,"name":"Lucent Fossil","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvTHVjZW50Rm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/633b40a6b0/LucentFossil.png"}]
