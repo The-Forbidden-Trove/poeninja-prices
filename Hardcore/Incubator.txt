@@ -1,1 +1,1 @@
-[{"id":21678,"name":"Primal Incubator","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uVGFsaXNtYW5zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0f5c6f389a/IncubationTalismans.png"}]
+[]
