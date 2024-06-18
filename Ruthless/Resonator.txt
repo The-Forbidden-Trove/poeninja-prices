@@ -1,1 +1,1 @@
-[]
+[{"id":7647,"name":"Potent Alchemical Resonator","chaosEquivalent":666,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvVXBncmFkZTJ4MUEiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MX1d/3acce880d2/Upgrade2x1A.png"}]
