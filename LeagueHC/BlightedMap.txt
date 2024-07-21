@@ -1,1 +1,1 @@
-[{"id":114056,"name":"Blighted Lair Map 2","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MYWlyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMCwibXQiOjIsIm1iIjp0cnVlfV0/e6e431186c/Lair.png"}]
+[]
