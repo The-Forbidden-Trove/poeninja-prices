@@ -1,1 +1,1 @@
-[]
+[{"id":118621,"name":"Blighted Dunes Map 2","chaosEquivalent":7,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5lcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoyLCJtYiI6dHJ1ZX1d/8128537363/Dunes.png"}]
