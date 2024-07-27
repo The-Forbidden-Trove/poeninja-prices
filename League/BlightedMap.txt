@@ -1,1 +1,1 @@
-[]
+[{"id":118585,"name":"Blighted Strand Map 3","chaosEquivalent":7,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MywibWIiOnRydWV9XQ/eadb62bc9c/Strand.png"}]
