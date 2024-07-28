@@ -1,1 +1,1 @@
-[]
+[{"id":119765,"name":"Blight-ravaged Foundry Map","chaosEquivalent":35,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UaGF1bWF0dXJneUR1bmdlb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTQsIm11YiI6dHJ1ZX1d/2bf261ef4d/ThaumaturgyDungeon.png"}]
