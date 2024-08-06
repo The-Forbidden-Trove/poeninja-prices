@@ -1,1 +1,1 @@
-[]
+[{"id":42286,"name":"Indigo Oil","chaosEquivalent":8,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f9356f7cb0/IndigoOil.png"}]
