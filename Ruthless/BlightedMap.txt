@@ -1,1 +1,1 @@
-[]
+[{"id":118700,"name":"Blighted Vault Map 4","chaosEquivalent":12,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYXVsdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10Ijo0LCJtYiI6dHJ1ZX1d/29b60c8a83/Vault.png"}]
