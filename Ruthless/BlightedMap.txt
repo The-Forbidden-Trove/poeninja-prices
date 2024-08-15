@@ -1,1 +1,1 @@
-[]
+[{"id":118700,"name":"Blighted Vault Map 4","chaosEquivalent":8,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYXVsdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10Ijo0LCJtYiI6dHJ1ZX1d/29b60c8a83/Vault.png"},{"id":118681,"name":"Blighted Lava Lake Map 2","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MiwibWIiOnRydWV9XQ/cbf69c2a9c/Corpse.png"}]
