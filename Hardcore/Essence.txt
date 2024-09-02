@@ -1,1 +1,1 @@
-[]
+[{"id":1875,"name":"Whispering Essence of Hatred","chaosEquivalent":0.3,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/81bf8c7a3e/Hatred1.png"}]
