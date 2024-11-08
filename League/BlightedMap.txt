@@ -1,1 +1,1 @@
-[]
+[{"id":118568,"name":"Blighted Bone Crypt Map 1","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoxLCJtYiI6dHJ1ZX1d/6f41d7be35/Catacomb.png"},{"id":118635,"name":"Blighted Gardens Map 1","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZXJyYWNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMSwibXQiOjEsIm1iIjp0cnVlfV0/ea906d4bf4/Terrace.png"}]
