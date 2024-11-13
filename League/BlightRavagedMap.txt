@@ -1,1 +1,1 @@
-[{"id":119778,"name":"Blight-ravaged Beach Map","chaosEquivalent":662.26,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoxNiwibXViIjp0cnVlfV0/fafbdd4ef4/Beach.png"}]
+[]
