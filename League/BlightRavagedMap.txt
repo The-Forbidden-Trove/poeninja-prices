@@ -1,1 +1,1 @@
-[]
+[{"id":119063,"name":"Blight-ravaged Alleyways Map","chaosEquivalent":100,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BbGxleXdheXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTUsIm11YiI6dHJ1ZX1d/d1df60a0aa/Alleyways.png"},{"id":119766,"name":"Blight-ravaged Museum Map","chaosEquivalent":100,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NdXNldW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTUsIm11YiI6dHJ1ZX1d/9e6c9029cc/Museum.png"}]
