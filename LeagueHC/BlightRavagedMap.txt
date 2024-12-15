@@ -1,1 +1,1 @@
-[{"id":120126,"name":"Blight-ravaged Crimson Township Map","chaosEquivalent":39,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Dcmltc29uVG93bnNoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTQsIm11YiI6dHJ1ZX1d/eaafa4d6c9/CrimsonTownship.png"}]
+[]
