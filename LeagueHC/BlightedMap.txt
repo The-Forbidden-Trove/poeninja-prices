@@ -1,1 +1,1 @@
-[{"id":118565,"name":"Blighted Ashen Wood Map 13","chaosEquivalent":100,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlXb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoxMywibWIiOnRydWV9XQ/e718e07f76/DryWoods.png"}]
+[]
