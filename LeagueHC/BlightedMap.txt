@@ -1,1 +1,1 @@
-[]
+[{"id":118660,"name":"Blighted Leyline Map 10","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyV2FzdGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMSwibXQiOjEwLCJtYiI6dHJ1ZX1d/82d758fa91/SulphurWastes.png"}]
