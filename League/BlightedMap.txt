@@ -1,1 +1,1 @@
-[{"id":118559,"name":"Blighted Coves Map 14","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3ZlcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoxNCwibWIiOnRydWV9XQ/9c46e2dce4/Coves.png"}]
+[]
