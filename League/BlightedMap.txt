@@ -1,1 +1,1 @@
-[{"id":118846,"name":"Blighted City Square Map 8","chaosEquivalent":15,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaXR5U3F1YXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMSwibXQiOjgsIm1iIjp0cnVlfV0/45e215472c/CitySquare.png"}]
+[]
