@@ -1,1 +1,1 @@
-[{"id":1090,"name":"Screaming Essence of Envy","chaosEquivalent":9,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/633982e75d/Envy5.png"},{"id":1095,"name":"Screaming Essence of Misery","chaosEquivalent":3,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9c97fb5a0f/Misery5.png"}]
+[]
