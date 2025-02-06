@@ -1,1 +1,1 @@
-[]
+[{"id":1297,"name":"Shrieking Essence of Wrath","chaosEquivalent":799999,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64651e09ee/Wrath6.png"},{"id":1824,"name":"Wailing Essence of Rage","chaosEquivalent":799999,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/94a3d5f6f2/Rage4.png"}]
