@@ -1,1 +1,1 @@
-[{"id":119200,"name":"Blight-ravaged Coves Map","chaosEquivalent":40,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3ZlcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoxNCwibXViIjp0cnVlfV0/9cbaffb7d2/Coves.png"},{"id":120850,"name":"Blight-ravaged Dungeon Map","chaosEquivalent":40,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5nZW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMSwibXQiOjE2LCJtdWIiOnRydWV9XQ/014073bf42/Dungeon.png"}]
+[]
