@@ -1,1 +1,1 @@
-[]
+[{"id":1093,"name":"Screaming Essence of Hatred","chaosEquivalent":50,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQ1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ce21e2462/Hatred5.png"}]
