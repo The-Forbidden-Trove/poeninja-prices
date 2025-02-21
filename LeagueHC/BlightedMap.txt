@@ -1,1 +1,1 @@
-[]
+[{"id":118557,"name":"Blighted Underground Sea Map 10","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFNlYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjEsIm10IjoxMCwibWIiOnRydWV9XQ/6233bb30c8/UndergroundSea.png"},{"id":118644,"name":"Blighted Dungeon Map 2","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5nZW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMSwibXQiOjIsIm1iIjp0cnVlfV0/cb955fc10d/Dungeon.png"}]
