@@ -1,1 +1,1 @@
-[]
+[{"id":119246,"name":"Blight-ravaged Cold River Map","chaosEquivalent":33,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xkUml2ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTUsIm11YiI6dHJ1ZX1d/0b9b4a1e55/ColdRiver.png"}]
