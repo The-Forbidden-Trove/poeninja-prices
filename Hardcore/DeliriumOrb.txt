@@ -1,1 +1,1 @@
-[]
+[{"id":40905,"name":"Cartographer's Delirium Orb","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ad4a59a2fc/DeliriumOrbMaps.png"},{"id":40921,"name":"Blacksmith's Delirium Orb","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJXZWFwb25zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1a249fbf02/DeliriumOrbWeapons.png"}]
