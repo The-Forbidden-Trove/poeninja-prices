@@ -1,1 +1,1 @@
-[]
+[{"id":119088,"name":"Blight-ravaged Lighthouse Map","chaosEquivalent":50,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTYsIm11YiI6dHJ1ZX1d/1c57cf3a0a/Beacon.png"},{"id":119163,"name":"Blight-ravaged Pit Map","chaosEquivalent":50,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QaXQxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMSwibXQiOjE1LCJtdWIiOnRydWV9XQ/c4cd9b5b42/Pit1.png"}]
