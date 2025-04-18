@@ -1,1 +1,1 @@
-[]
+[{"id":118973,"name":"Blight-ravaged Temple Map","chaosEquivalent":30,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZW1wbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIxLCJtdCI6MTQsIm11YiI6dHJ1ZX1d/4f0fa909f9/Temple.png"}]
