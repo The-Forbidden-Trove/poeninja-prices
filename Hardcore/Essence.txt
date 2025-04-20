@@ -1,1 +1,1 @@
-[]
+[{"id":1046,"name":"Remnant of Corruption","chaosEquivalent":5,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlQ29ycnVwdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0e84041aa5/EssenceCorrupt.png"},{"id":1817,"name":"Wailing Essence of Anguish","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Bbmd1aXNoNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6f1252c22f/Anguish4.png"}]
