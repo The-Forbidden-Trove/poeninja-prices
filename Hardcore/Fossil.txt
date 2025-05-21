@@ -1,1 +1,1 @@
-[]
+[{"id":7653,"name":"Sanctified Fossil","chaosEquivalent":20,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvR2lsZGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8a8b6de108/GildedFossil.png"}]
