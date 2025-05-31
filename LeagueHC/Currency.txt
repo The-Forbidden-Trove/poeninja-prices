@@ -1,1 +1,1 @@
-[]
+[{"id":212,"name":"Primal Crystallised Lifeforce","chaosEquivalent":0.03,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d5d53c61c3/PrimalLifeforce.png"}]
