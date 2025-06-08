@@ -1,1 +1,1 @@
-[]
+[{"id":184,"name":"Lesser Eldritch Ichor","chaosEquivalent":0.49,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3135dab202/TangleOrbRank1.png"}]
