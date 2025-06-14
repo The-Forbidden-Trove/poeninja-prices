@@ -1,1 +1,1 @@
-[{"id":125047,"name":"Blighted Villa Map 2","chaosEquivalent":6,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WaWxsYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjIsIm10IjoyLCJtYiI6dHJ1ZX1d/59128ef80e/Villa.png"}]
+[]
