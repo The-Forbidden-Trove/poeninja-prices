@@ -1,1 +1,1 @@
-[]
+[{"id":45,"name":"Stacked Deck","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/962aa0e620/Deck.png"}]
