@@ -1,1 +1,1 @@
-[]
+[{"id":125415,"name":"Blight-ravaged Underground River Map","chaosEquivalent":99.6,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFJpdmVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMiwibXQiOjE1LCJtdWIiOnRydWV9XQ/ca552edb6f/UndergroundRiver.png"}]
