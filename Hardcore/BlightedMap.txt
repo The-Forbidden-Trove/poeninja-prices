@@ -1,1 +1,1 @@
-[{"id":98430,"name":"Blighted Summit Map 14","chaosEquivalent":13,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdW1taXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTQsIm1iIjp0cnVlfV0/b0797fd68b/Summit.png"},{"id":98451,"name":"Blighted Spider Forest Map 13","chaosEquivalent":13,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TcGlkZXJGb3Jlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTMsIm1iIjp0cnVlfV0/8e8ba67b22/SpiderForest.png"}]
+[]
