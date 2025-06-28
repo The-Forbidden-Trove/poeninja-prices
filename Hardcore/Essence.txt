@@ -1,1 +1,1 @@
-[{"id":372,"name":"Deafening Essence of Doubt","chaosEquivalent":4,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png"}]
+[]
