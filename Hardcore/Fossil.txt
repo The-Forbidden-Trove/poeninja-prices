@@ -1,1 +1,1 @@
-[]
+[{"id":7641,"name":"Aberrant Fossil","chaosEquivalent":70,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQWJiZXJhbnRGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/426882fe76/AbberantFossil.png"}]
