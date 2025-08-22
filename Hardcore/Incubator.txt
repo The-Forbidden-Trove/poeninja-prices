@@ -1,1 +1,1 @@
-[]
+[{"id":21676,"name":"Whispering Incubator","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a659194f8/IncubationEssence.png"}]
