@@ -1,1 +1,1 @@
-[{"id":236,"name":"Valdo's Puzzle Box","chaosEquivalent":148,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmFsZG9zUHV6emxlQm94IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/aa5be00d00/ValdosPuzzleBox.png"}]
+[]
