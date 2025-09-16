@@ -1,1 +1,1 @@
-[]
+[{"id":125672,"name":"Blight-ravaged Strand Map","chaosEquivalent":100,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIyLCJtdCI6MTYsIm11YiI6dHJ1ZX1d/d937cb893b/Strand.png"},{"id":125868,"name":"Blight-ravaged Cold River Map","chaosEquivalent":100,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xkUml2ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIyLCJtdCI6MTUsIm11YiI6dHJ1ZX1d/118de44cb6/ColdRiver.png"}]
