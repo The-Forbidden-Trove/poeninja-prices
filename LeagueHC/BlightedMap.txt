@@ -1,1 +1,1 @@
-[{"id":125116,"name":"Blighted Belfry Map 11","chaosEquivalent":30,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWxmcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIyLCJtdCI6MTEsIm1iIjp0cnVlfV0/fb0ba2aa12/Belfry.png"}]
+[]
