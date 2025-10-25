@@ -1,1 +1,1 @@
-[]
+[{"id":125091,"name":"Blighted Sepulchre Map 2","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXB1bGNocmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIyLCJtdCI6MiwibWIiOnRydWV9XQ/69d50369f8/Sepulchre.png"}]
