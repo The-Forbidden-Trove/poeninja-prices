@@ -1,1 +1,1 @@
-[]
+[{"id":98493,"name":"Blighted Dig Map 9","chaosEquivalent":8,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EaWciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OSwibWIiOnRydWV9XQ/347c18ea5b/Dig.png"}]
