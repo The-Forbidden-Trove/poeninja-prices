@@ -1,1 +1,1 @@
-[]
+[{"id":129352,"name":"Blight-ravaged Park Map","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYXJrIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyMywibXQiOjE1LCJtdWIiOnRydWV9XQ/ff01dba9ef/Park.png"}]
