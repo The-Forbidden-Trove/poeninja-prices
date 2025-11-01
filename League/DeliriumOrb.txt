@@ -1,1 +1,1 @@
-[]
+[{"id":40922,"name":"Blighted Delirium Orb","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b609cfbb50/DeliriumOrbBlight.png"},{"id":40906,"name":"Jeweller's Delirium Orb","chaosEquivalent":2,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJUcmlua2V0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/51a3def31b/DeliriumOrbTrinkets.png"}]
