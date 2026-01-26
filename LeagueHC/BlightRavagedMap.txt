@@ -1,1 +1,1 @@
-[]
+[{"id":129327,"name":"Blight-ravaged Ashen Wood Map","chaosEquivalent":80,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlXb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjMsIm10IjoxNCwibXViIjp0cnVlfV0/344fba8b34/DryWoods.png"}]
