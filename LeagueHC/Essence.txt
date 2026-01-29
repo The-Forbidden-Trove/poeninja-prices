@@ -1,1 +1,1 @@
-[]
+[{"id":1873,"name":"Whispering Essence of Contempt","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/68114b6900/Contempt1.png"}]
