@@ -1,1 +1,1 @@
-[{"id":21691,"name":"Foreboding Incubator","chaosEquivalent":10,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uSGFyYmluZ2VyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2855468d9f/IncubationHarbinger.png"}]
+[]
