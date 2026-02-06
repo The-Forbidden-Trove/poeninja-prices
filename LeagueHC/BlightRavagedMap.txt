@@ -1,1 +1,1 @@
-[{"id":128863,"name":"Blight-ravaged Beach Map","chaosEquivalent":25,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjMsIm10IjoxNiwibXViIjp0cnVlfV0/bcd73dcbea/Beach.png"},{"id":128679,"name":"Blight-ravaged Temple Map","chaosEquivalent":20,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZW1wbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIzLCJtdCI6MTQsIm11YiI6dHJ1ZX1d/c69f1c4d33/Temple.png"}]
+[]
