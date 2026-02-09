@@ -1,1 +1,1 @@
-[{"id":269,"name":"Hivebrain Gland","chaosEquivalent":9.4,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Cb3NzS2V5QnJlcXVlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a1df227217/BossKeyBrequel.png"}]
+[{"id":269,"name":"Hivebrain Gland","chaosEquivalent":8.7,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Cb3NzS2V5QnJlcXVlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a1df227217/BossKeyBrequel.png"}]
