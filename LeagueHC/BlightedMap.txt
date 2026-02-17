@@ -1,1 +1,1 @@
-[{"id":128545,"name":"Blighted Shipyard Map 1","chaosEquivalent":87.76,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TaGlweWFyZCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjMsIm10IjoxLCJtYiI6dHJ1ZX1d/0fd033449b/Shipyard.png"}]
+[{"id":128545,"name":"Blighted Shipyard Map 1","chaosEquivalent":91.39,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TaGlweWFyZCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjMsIm10IjoxLCJtYiI6dHJ1ZX1d/0fd033449b/Shipyard.png"}]
