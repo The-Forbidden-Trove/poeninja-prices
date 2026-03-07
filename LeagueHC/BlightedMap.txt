@@ -1,1 +1,1 @@
-[{"id":135672,"name":"Blighted Map (Tier 1)","chaosEquivalent":4,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXBOdW1iZXJzMSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowLCJtYiI6dHJ1ZX1d/256b6802a7/MapNumbers1.png"}]
+[]
