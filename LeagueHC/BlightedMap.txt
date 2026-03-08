@@ -1,1 +1,1 @@
-[{"id":135692,"name":"Blighted Map (Tier 6)","chaosEquivalent":8,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXBOdW1iZXJzNiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowLCJtYiI6dHJ1ZX1d/7e9224bc82/MapNumbers6.png"},{"id":135702,"name":"Blighted Map (Tier 7)","chaosEquivalent":1.8,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXBOdW1iZXJzNyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowLCJtYiI6dHJ1ZX1d/38033557df/MapNumbers7.png"}]
+[]
