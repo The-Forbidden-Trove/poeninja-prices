@@ -1,1 +1,1 @@
-[]
+[{"id":134980,"name":"Blight-ravaged Map (Tier 16)","chaosEquivalent":278,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYWxhY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjIzLCJtdCI6MCwibXViIjp0cnVlfV0/379e4b4e1c/Palace.png"}]
