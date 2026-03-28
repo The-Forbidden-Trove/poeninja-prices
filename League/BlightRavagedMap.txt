@@ -1,1 +1,1 @@
-[{"id":135704,"name":"Blight-ravaged Map (Tier 16)","chaosEquivalent":19,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXBOdW1iZXJzMTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MCwibXViIjp0cnVlfV0/5675b49373/MapNumbers16.png"}]
+[{"id":135704,"name":"Blight-ravaged Map (Tier 16)","chaosEquivalent":15.8,"icon":"https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXBOdW1iZXJzMTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MCwibXViIjp0cnVlfV0/5675b49373/MapNumbers16.png"}]
