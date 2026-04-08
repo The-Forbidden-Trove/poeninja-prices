@@ -1,1 +1,1 @@
-[]
+[{"id":1096,"name":"Screaming Essence of Rage","chaosEquivalent":1,"icon":"https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/89c03ab737/Rage5.png"}]
